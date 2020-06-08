@@ -1,3 +1,11 @@
 .pepe { color:red; }
 .paco { color:green; }
-.sidebar{ float:left; width:90px; height:1000px}
+div.sidebar { float:left; width:20%; height:100%; background-color: antiquewhite;}
+div.content { float:left; width:80%; height:100%; background-color: azure;}
+div { width: 100%; height: 100%; }
+html, body { width: 100%; height: 100%; }
+ul { padding-left: 0; list-style-type: none;  }
+a { text-decoration: none; font-size: 2em; }
+.insidebar { width: 90%; background-color: darksalmon; align-self: center; margin-left: 5%;
+            height: 200px; margin-top: 5%; }
+li { list-style: none; text-align: center; }
